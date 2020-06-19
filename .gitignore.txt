@@ -1,4 +1,9 @@
 # .idea/workspace.xml (added by ckkim, 19/07/25)
+
+UCI HAR Dataset/
+study/
+__MACOSX/
+
 .idea/workspace.xml
 workspace.xml
 *.db
@@ -117,6 +122,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-UCI HAR Dataset/
-study/
-__MACOSX/
